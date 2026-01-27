@@ -1,0 +1,30 @@
+.heading{
+    font-size: 25px;
+    font-family: "Inter Semi Bold";
+    text-align: center;
+    color: orangered;
+}
+.paragraph{
+    padding: 20px;
+    background-color: aqua;
+    color: black;
+    border-radius: 10px;
+}
+.mid{
+    width: 100%;
+
+}
+ .carousel-item{
+        width: 50%;
+        display: block;
+        margin: auto;
+     padding: 100px;
+
+}
+ .carousel-inner{
+   width: 50%;
+        display: block;
+        margin: auto;
+     padding: 50px;
+
+ }
